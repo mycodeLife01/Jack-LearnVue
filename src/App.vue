@@ -32,6 +32,7 @@ export default {
 
 <template>
     <div :style="{ fontSize: postFontSize + 'em' }">
+        <!-- test git push -->
         <!-- <MyComponent v-for='post in posts' :key='post.id' :title='post.title' @enlarge-text='enlargeText'>
             123
         </MyComponent> -->

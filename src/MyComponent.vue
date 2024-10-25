@@ -1,6 +1,8 @@
 <script>
     export default {
-        props: ['title'],
+        props: {
+            title: String
+        },
         emits: ['enlarge-text']
     }
 
